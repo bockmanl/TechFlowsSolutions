@@ -55,7 +55,7 @@ jobs:
     # Configure the deployment environment
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+
     
     steps:
     # Step 1: Deploy to GitHub Pages
