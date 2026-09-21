@@ -1,4 +1,5 @@
 # TechFlow Solutions Website
+[![pages-build-deployment](https://github.com/bockmanl/TechFlowsSolutions/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/bockmanl/TechFlowsSolutions/actions/workflows/pages/pages-build-deployment)
 
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
